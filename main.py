@@ -1,1 +1,1 @@
-print(Giorgi Kurtanidze and Ubuntu)
+print(hey stash)
